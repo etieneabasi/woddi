@@ -2559,8 +2559,11 @@ color:#4FAE50;
  .victoria{
   font-family: Arial, Helvetica, sans-serif;
 }
+.menutext{
+  color: #343A45 !important;
+}
 .menutext:hover{
-  color: #FC4B13;
+  color: #FC4B13 !important;
 }
 /*---------------------------------------------*/
 .bg-img2 {
