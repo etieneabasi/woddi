@@ -2547,6 +2547,9 @@ color:#4FAE50;
 .carousel-indicators .active {
   background-color: #FC4B13;
 }
+.bg-101{
+  background-color: #0E0E0E;
+}
 /*---------------------------------------------*/
 .bg-img1 {
   background-position: center center;
